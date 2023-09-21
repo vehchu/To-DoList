@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: black;
+}
+
+.error-outline {
+  border: 3px solid red;
+  background-color: rgb(255, 192, 192);
+}
+
+.normal-outline {
+  border: 2px solid #ccc; 
+}

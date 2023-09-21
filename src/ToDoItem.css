@@ -1,0 +1,22 @@
+.TDItem{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: row;
+    padding: 5px;
+    margin: 10px;
+    width: 50%;
+    overflow: auto;
+    background-color: antiquewhite;
+}
+
+.title{
+    font-size: medium;
+    text-wrap: wrap;
+
+
+}
+
+h1{
+    padding: 10px;
+}
